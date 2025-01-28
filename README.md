@@ -1,8 +1,8 @@
 # HIS
-For the new project
+For a new project
 <br>
-i am studying in G19
+I am studying at Chitkara University
 <br>
-This my new projrct
+This is my new projrct
 <br>
-Author - Kelde Lhatshog Jigsel
+Author - Kelden Lhatshog Jigsel
